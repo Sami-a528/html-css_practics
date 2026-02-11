@@ -1,0 +1,25 @@
+#box{
+    height: 200px;
+    width: 300px;
+    background-color: pink;
+    text-align: center;
+    animation: PercentageAnimate 2s linear 3s infinite normal;
+}
+
+@keyframes PercentageAnimate {
+    0%{
+        background-color: green;
+        font-size: 0px;
+        border-radius: 10px;
+    }
+    50%{
+        background-color: red;
+        font-size: 20px;
+        border-radius: 20px;
+    }
+    100%{
+        background-color: blue;
+        font-size: 50px;
+        border-radius: 50%;
+    }
+}

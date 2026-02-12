@@ -1,0 +1,22 @@
+/* h2{
+    display: inline;
+}
+span{
+    display: block;
+} */
+
+span{
+    /* background-color: red; */
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    padding: 50px;
+    margin: 50px;
+}
+div{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    padding: 50px;
+    margin: 50px; 
+}

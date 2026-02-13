@@ -1,0 +1,13 @@
+h1{
+    text-decoration: red underline;
+}
+p{
+    text-decoration:green line-through;
+    
+}
+h2{
+    text-decoration: blue overline;   
+}
+a{
+    text-decoration: none;
+}

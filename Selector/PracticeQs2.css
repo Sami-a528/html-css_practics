@@ -1,0 +1,12 @@
+h1{
+    color: pink;
+}
+#great{
+    color: yellow;
+}
+.myClass{
+    color: brown;
+}
+h1{
+    color: blue !important;
+}
